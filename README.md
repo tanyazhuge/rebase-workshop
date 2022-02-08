@@ -1,8 +1,6 @@
 # Rebase Workshop
-
 CONTENTS OF THIS FILE
 ---------------------
-
  * Introduction
  * Requirements
  * Recommended modules
@@ -13,6 +11,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
+Read lesson
 
 REQUIREMENTS
 ------------
@@ -25,6 +24,7 @@ RECOMMENDED MODULES
 - Vulputate enim 
 - Nulla aliquet 
 - Porttitor lacus
+- all of the above
 
 INSTALLATION
 ------------
